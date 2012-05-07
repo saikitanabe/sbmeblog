@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Sketchboard.Me's Blog</title>
+ <link href="http://username.github.com/atom.xml" rel="self"/>
+ <link href="http://username.github.com"/>
+ <updated>2012-05-07T21:53:03+03:00</updated>
+ <id>http://username.github.com</id>
+ <author>
+   <name>7scales Ltd</name>
+   <email>sketchboard@7scales.net</email>
+ </author>
+
+ 
+ <entry>
+   <title>Switch Board</title>
+   <link href="http://username.github.com/2012/05/06/switch-board"/>
+   <updated>2012-05-06T00:00:00+03:00</updated>
+   <id>http://username.github.com/2012/05/06/switch-board</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Read Only Board</title>
+   <link href="http://username.github.com/2012/05/06/read-only-board"/>
+   <updated>2012-05-06T00:00:00+03:00</updated>
+   <id>http://username.github.com/2012/05/06/read-only-board</id>
+   <content type="html">&lt;p&gt;Now it is possible to publish read only board URL.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Password Protect Your Board</title>
+   <link href="http://username.github.com/2012/05/06/password-protect-your-board"/>
+   <updated>2012-05-06T00:00:00+03:00</updated>
+   <id>http://username.github.com/2012/05/06/password-protect-your-board</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Go Pro</title>
+   <link href="http://username.github.com/2012/05/06/go-pro"/>
+   <updated>2012-05-06T00:00:00+03:00</updated>
+   <id>http://username.github.com/2012/05/06/go-pro</id>
+   <content type="html">&lt;p&gt;Now it is possible to &lt;strong&gt;go Pro Sketchboard.Me&lt;/strong&gt; user. Just send email to sketchboardme[ at ]7scales.net to get your pro status. With Pro account you are able to&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Mark Boards as Pro&lt;/li&gt;
+
+&lt;li&gt;Protect Pro boards with a password&lt;/li&gt;
+
+&lt;li&gt;Share Pro boards with readonly url&lt;/li&gt;
+
+&lt;li&gt;Pro boards are not removed after 30 days&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;At this phase you can mark five boards as Pro. As always, give feedback! &lt;a href='http://twitter.com/#!/sketchboardme'&gt;@SketchboardMe&lt;/a&gt;.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Example Boards</title>
+   <link href="http://username.github.com/2012/05/06/example-boards"/>
+   <updated>2012-05-06T00:00:00+03:00</updated>
+   <id>http://username.github.com/2012/05/06/example-boards</id>
+   <content type="html"></content>
+ </entry>
+ 
+ 
+</feed>
