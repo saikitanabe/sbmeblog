@@ -4,7 +4,7 @@
  <title>Sketchboard.Me's Blog</title>
  <link href="http://username.github.com/atom.xml" rel="self"/>
  <link href="http://username.github.com"/>
- <updated>2012-05-08T21:58:19+03:00</updated>
+ <updated>2012-05-08T22:26:16+03:00</updated>
  <id>http://username.github.com</id>
  <author>
    <name>7scales Ltd</name>
@@ -49,7 +49,7 @@
    <link href="http://username.github.com/2012/05/06/hello"/>
    <updated>2012-05-06T00:00:00+03:00</updated>
    <id>http://username.github.com/2012/05/06/hello</id>
-   <content type="html">&lt;p&gt;Sketchboard.Me starts to keep blog to give quick overview of features, news and thoughts. Technically blog is powered by GitHub, Jekyll and Twitter Boostrap. Blog is running on GitHub Pages that automatically publishes the blog on each git commit. First impression of Github Pages combined with Jekyll is great. It is really easy to use and very convinient. Setup makes possible to edit and publish blog content directly through a web browser by editing files through Github, which is extremly nice!&lt;/p&gt;</content>
+   <content type="html">&lt;p&gt;Sketchboard.Me starts to keep blog to give quick overview of features, news and thoughts. Technically blog is powered by Github, Jekyll + Jekyll Boostrap and Twitter Boostrap. Blog is running on Github Pages that automatically publish the blog on each git commit. First impression of Github Pages combined with Jekyll is great. It is really easy to use and very convinient. Setup makes possible to edit and publish blog content directly through a web browser by editing files through Github, which is extremly nice!&lt;/p&gt;</content>
  </entry>
  
  
