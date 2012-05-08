@@ -4,7 +4,7 @@
  <title>Sketchboard.Me's Blog</title>
  <link href="http://username.github.com/atom.xml" rel="self"/>
  <link href="http://username.github.com"/>
- <updated>2012-05-08T20:07:01+03:00</updated>
+ <updated>2012-05-08T21:40:01+03:00</updated>
  <id>http://username.github.com</id>
  <author>
    <name>7scales Ltd</name>
@@ -30,6 +30,18 @@
 &lt;/ul&gt;
 
 &lt;p&gt;At this phase you can mark five boards as Pro. As always, give feedback! sketchboardme[ at ]7scales.net or &lt;a href='http://twitter.com/#!/sketchboardme'&gt;@SketchboardMe&lt;/a&gt;.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Switch Board</title>
+   <link href="http://username.github.com/2012/05/06/switch-board"/>
+   <updated>2012-05-06T00:00:00+03:00</updated>
+   <id>http://username.github.com/2012/05/06/switch-board</id>
+   <content type="html">&lt;p&gt;Switch board list enables you to quickly change a board. In case you want to have multiple boards open at the same time, press cmd/ctrl key while clicking the link, it opens the board to a new tab.&lt;/p&gt;
+
+&lt;p&gt;To change your board status to pro, click the left most empty box next to the board url. Pro boards can be recognized from the green pro icon and are first in the list. Currently open board is highlighted with light grey background color. Boards that you are admin of are marked with &lt;strong&gt;me&lt;/strong&gt; in the end of each line. You can change pro status only for those.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt='Switch board list' src='/images/switchboard.png' /&gt;&lt;/p&gt;</content>
  </entry>
  
  
