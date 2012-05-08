@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sketchboard.Me latest features, news and thoughts
+title: Sketchboard.Me latest features and thoughts
 ---
 {% include JB/setup %}
 
