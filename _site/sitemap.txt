@@ -7,8 +7,4 @@ http://username.github.com/pages.html
 http://username.github.com/sitemap.txt
 http://username.github.com/tags.html
 
-http://username.github.com/2012/05/06/switch-board
-http://username.github.com/2012/05/06/read-only-board
-http://username.github.com/2012/05/06/password-protect-your-board
-http://username.github.com/2012/05/06/go-pro
-http://username.github.com/2012/05/06/example-boards
+http://username.github.com/2012/05/07/go-pro
