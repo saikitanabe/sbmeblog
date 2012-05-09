@@ -7,7 +7,7 @@ title: Sketchboard.Me latest features and thoughts
 [@SketchboardMe](http://twitter.com/#!/sketchboardme)
 
 <div class="row">
-	<div class="span8">
+	<div class="span7">
 		{% for post in site.posts %}
 		<h1><a href="{{post.url}}">{{post.title}}</a></h1>
 		{{post.content}}
