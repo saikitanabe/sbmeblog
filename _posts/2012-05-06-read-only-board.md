@@ -19,3 +19,9 @@ From the Share popup, you can see board read only url. When board is accessed th
 * Board name: type your board name (this is optional, but makes easier to find from the inbox.
 
 ![Email Read Only URL](/images/emailreadonlyurl.png)
+
+Try it your self!
+
+**Editable Board**: [http://sketchboard.me/fxG7iMD1lIGg](http://sketchboard.me/fxG7iMD1lIGg)
+
+**Same board with Read Only URL**: [http://sketchboard.me/oxG7j9AAVptr](http://sketchboard.me/oxG7j9AAVptr)
