@@ -3,7 +3,7 @@ layout: post
 title: "Switch Board"
 description: ""
 category: 
-tags: []
+tags: [feature]
 published: true
 ---
 {% include JB/setup %}

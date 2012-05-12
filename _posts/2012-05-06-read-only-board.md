@@ -3,7 +3,7 @@ layout: post
 title: "Read Only Board"
 description: ""
 category: 
-tags: []
+tags: [feature]
 published: true
 ---
 {% include JB/setup %}

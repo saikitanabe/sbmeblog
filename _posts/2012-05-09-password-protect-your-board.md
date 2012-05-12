@@ -3,7 +3,7 @@ layout: post
 title: "Password Protect Your Board"
 description: ""
 category: 
-tags: []
+tags: [feature]
 published: true
 ---
 {% include JB/setup %}
