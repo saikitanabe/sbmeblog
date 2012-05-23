@@ -13,6 +13,6 @@ Location of the copy board button depends whether you are logged in or not. When
 
 ![Copy Board - Logged In](/images/copyboard-loggedin.png)
 
-When you are not logged in, copy button is directly available from the toolbar. Reasons for different locations is that there has started to be quite many buttons in the toolbar, not logged in users see less options. Also new users can quickly get started by copying from a read only example board. One reason is that logically user is switching a board, to sum these up, decision was to have two different locations.
+When you are not logged in, copy button is directly available from the toolbar. Reasons for different locations are that there has started to be quite many buttons in the toolbar, not logged in users see less options. Also new users can quickly get started by copying from a read only example board. One reason is that logically user is switching a board, to sum these up, decision was to have two different locations.
 
 ![Copy Board - Not Logged In](/images/copyboard-notlogged.png)
