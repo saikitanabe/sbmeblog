@@ -7,9 +7,9 @@ tags: []
 ---
 {% include JB/setup %}
 
-Reuse diagrams by copying the current board as a new board. Select “Copy Board” and a new board is created for you. This gives you a possibility to create alternative designs. Continue only with the one that is better and ditch the other one. You can even create your own diagram template library.
+Reuse diagrams by copying the current board as a new board. This gives you a possibility to create alternative designs. Continue only with the one that is better and ditch the other one. You can even create your own template diagram library.
 
-Location of the copy board button depends whether you are logged in or not. When you are logged in you can copy the board from the switch board list. 
+Select "Copy Board" and a new board is created for you. Location of the copy board button depends whether you are logged in or not. When you are logged in you can copy the board from the switch board list. 
 
 ![Copy Board - Logged In](/images/copyboard-loggedin.png)
 
