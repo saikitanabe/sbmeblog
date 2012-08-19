@@ -18,8 +18,7 @@ Currently supported:
 
 #### Installing Sketchboard.Me on Google Drive
 - Enable and take [Google Drive](https://drive.google.com) into use
-- Go to Chrome Web Store TODO: add direct link to 
-- Install Sketchboard.Me
+- [Install Sketchboard.Me](https://chrome.google.com/webstore/detail/bgafhjpdkfjfmmjbebbdckolonomaoil)
 
 #### Create Sketchboard.Me shortcut from Google Drive:
 ![Google Drive Menu](/images/google-drive-menu.png)
