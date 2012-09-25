@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Intuitive Drag & Drop Menu Scrolling"
+title: "Intuitive Drag and Drop Menu Scrolling"
 description: ""
 category: 
 tags: []
