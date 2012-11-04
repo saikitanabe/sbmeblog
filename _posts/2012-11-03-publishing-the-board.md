@@ -22,7 +22,9 @@ Published image is not automatically regenerated when the board is changed. Ther
 
 ![Republish](/images/republish.png)
 
-**NOTE!** When you download the board as an image it will also update the published image.
-![Download Menu Item](/images/download-menu-item.png)
+**NOTE!** 
 
-Unicode chararacters are not supported at the moment.
+* When you download the board as an image it will also update the published image.
+![Download Menu Item](/images/download-menu-item.png)
+* Unicode chararacters are not supported at the moment.
+* Published boards are **public** and those will be available through **public listing** at some point
