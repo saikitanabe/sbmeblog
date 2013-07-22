@@ -1,0 +1,2 @@
+rake post title="New Title"
+jekyll serve -w
