@@ -7,6 +7,7 @@ http://username.github.com/pages.html
 http://username.github.com/sitemap.txt
 http://username.github.com/tags.html
 
+http://username.github.com/2013/08/31/export-selected
 http://username.github.com/2013/08/30/integrate-flowdock
 http://username.github.com/2013/07/22/accounts-introduced
 http://username.github.com/2013/06/20/map-view

@@ -4,13 +4,37 @@
  <title>Sketchboard.Me's Blog</title>
  <link href="http://username.github.com/atom.xml" rel="self"/>
  <link href="http://username.github.com"/>
- <updated>2013-08-30T16:30:46+03:00</updated>
+ <updated>2013-08-31T13:45:01+03:00</updated>
  <id>http://username.github.com</id>
  <author>
    <name>7scales Ltd</name>
    <email>sketchboardme@7scales.net</email>
  </author>
 
+ 
+ <entry>
+   <title>Export Only Selected Elements</title>
+   <link href="http://username.github.com/2013/08/31/export-selected"/>
+   <updated>2013-08-31T00:00:00+03:00</updated>
+   <id>http://username.github.com/2013/08/31/export-selected</id>
+   <content type="html">&lt;p&gt;From now on Sketchboard obeys selected elements when exporting a board. In case you have selected some elements from the board, exports obeys the selection. In case you don&amp;#8217;t select anything, full board will be exported.&lt;/p&gt;
+
+&lt;h3 id=&#39;steps&#39;&gt;Steps&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Select elements&lt;/li&gt;
+
+&lt;li&gt;Select export method, e.g. Print&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#39;export_only_selected_elements_as_png&#39;&gt;Export Only Selected Elements as PNG&lt;/h3&gt;
+
+&lt;p&gt;&lt;img alt=&#39;Export Selected&#39; src=&#39;/images/export-selected.png&#39; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#39;export_only_selected_downloaded_file&#39;&gt;Export Only Selected Downloaded File&lt;/h3&gt;
+
+&lt;p&gt;&lt;img alt=&#39;Export Selected Downloaded Image&#39; src=&#39;/images/export-selected-result.png&#39; /&gt;&lt;/p&gt;</content>
+ </entry>
  
  <entry>
    <title>Flowdock Integration</title>
