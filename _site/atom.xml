@@ -4,13 +4,57 @@
  <title>Sketchboard.Me's Blog</title>
  <link href="http://username.github.com/atom.xml" rel="self"/>
  <link href="http://username.github.com"/>
- <updated>2013-08-31T13:45:01+03:00</updated>
+ <updated>2013-09-13T10:13:51+03:00</updated>
  <id>http://username.github.com</id>
  <author>
    <name>7scales Ltd</name>
    <email>sketchboardme@7scales.net</email>
  </author>
 
+ 
+ <entry>
+   <title>Markdown Like Text Formatting</title>
+   <link href="http://username.github.com/2013/09/12/markdown-like-text-formatting"/>
+   <updated>2013-09-12T00:00:00+03:00</updated>
+   <id>http://username.github.com/2013/09/12/markdown-like-text-formatting</id>
+   <content type="html">&lt;p&gt;&lt;em&gt;Highlight important topics on your board using text formatting.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Sketchboard users have requested a possibility to format text. For starters &lt;strong&gt;Note&lt;/strong&gt; and &lt;strong&gt;Just Text&lt;/strong&gt; elements implement simple text formatting. Formatting is based on &lt;strong&gt;Markdown&lt;/strong&gt;, initially following text formatting rules are used.&lt;/p&gt;
+
+&lt;p&gt;There are some differences for Markdown. One of the biggest difference is that line breaks are obeyed. Other is that Sketchboard legacy *bold* makes text bold and not emphasized. In the future another probable exception might be that two underscores are used for __underlined text__ and not for text bolding.&lt;/p&gt;
+
+&lt;h1 id=&#39;headings&#39;&gt;Headings&lt;/h1&gt;
+
+&lt;p&gt;Note Element &lt;img alt=&#39;Heading Syntax (Notes)&#39; src=&#39;/images/note-heading-markdown.png&#39; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Just Text Element &lt;img alt=&#39;Heading Just Text&#39; src=&#39;/images/just-text-heading.png&#39; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&#39;bullets&#39;&gt;Bullets&lt;/h1&gt;
+
+&lt;p&gt;&lt;img alt=&#39;Notes Bullets Syntax&#39; src=&#39;/images/note-bullets-markdown2.png&#39; /&gt; &lt;img alt=&#39;Just Text Bullets&#39; src=&#39;/images/just-text-bullets.png&#39; /&gt;&lt;/p&gt;
+
+&lt;p&gt;You can use either - or * characters for bullet point.&lt;/p&gt;
+
+&lt;p&gt;- First Level 1&lt;/p&gt;
+
+&lt;p&gt;&amp;#8211; Second Level 1&lt;/p&gt;
+
+&lt;p&gt;&amp;#8212; Third Level 1&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;, Sketchboard syntax differs from Markdown, nested bullet list does not use spaces before the bullet point. E.g. tab would focus browser address bar by default and at least for now that functionality is not overridden.&lt;/p&gt;
+
+&lt;h1 id=&#39;bold_and_italics&#39;&gt;Bold and Italics&lt;/h1&gt;
+
+&lt;p&gt;&lt;img alt=&#39;Bold and Italic&#39; src=&#39;/images/note-bold-italic.png&#39; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&#39;escaping&#39;&gt;Escaping&lt;/h1&gt;
+
+&lt;p&gt;When you want to show characters used in formatting, those needs to be escaped with \. &lt;img alt=&#39;Note Escaping&#39; src=&#39;/images/note-escaping.png&#39; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&#39;thanks&#39;&gt;Thanks&lt;/h1&gt;
+
+&lt;p&gt;Thanks to this excellent markdown library &lt;a href=&#39;https://github.com/chjj/marked&#39;&gt;Marked&lt;/a&gt;.&lt;/p&gt;</content>
+ </entry>
  
  <entry>
    <title>Export Only Selected Elements</title>
