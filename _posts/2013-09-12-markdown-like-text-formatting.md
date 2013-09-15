@@ -9,18 +9,21 @@ tags: []
 
 _Highlight important topics on your board using text formatting._
 
-Sketchboard users have requested a possibility to format text.
+Sketchboard users have requested possibility to format text.
 For starters __Note__ and __Just Text__ elements implement simple text formatting.
 Formatting is based on __Markdown__, initially following text formatting rules
 are used.
 
-There are some differences for Markdown. One of the biggest difference is that 
-line breaks are obeyed. Other is that Sketchboard legacy \*bold\* makes text bold
+There are some differences for Markdown. Sketchboard legacy \*bold\* makes text bold
 and not emphasized. In the future another probable exception might be that two underscores 
 are used for \__underlined text\__ and not for text bolding.
 
 Headings
 ========
+
+Markdown provides two styles to write headings.
+
+![Heading Example](/images/Setext-heading-example.png)
 
 Note Element
 ![Heading Syntax (Notes)](/images/note-heading-markdown.png)
@@ -38,13 +41,12 @@ You can use either - or * characters for bullet point.
 
 \- First Level 1
 
-\-- Second Level 1
+&nbsp;&nbsp;&nbsp;&nbsp;- Second Level 1
 
-\--- Third Level 1
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Third Level 1
 
-__Note__, Sketchboard syntax differs from Markdown, nested bullet list does not use 
-spaces before the bullet point. E.g. tab would focus browser address bar by default and 
-at least for now that functionality is not overridden.
+__Note__, Nested level bullets are 4/8 spaces. You can use
+TAB to autofill 4 space characters in the editor.
 
 Bold and Italics
 ================
