@@ -4,13 +4,131 @@
  <title>Sketchboard.Me's Blog</title>
  <link href="http://username.github.com/atom.xml" rel="self"/>
  <link href="http://username.github.com"/>
- <updated>2013-09-15T15:34:09+03:00</updated>
+ <updated>2013-10-18T12:30:30+03:00</updated>
  <id>http://username.github.com</id>
  <author>
    <name>7scales Ltd</name>
    <email>sketchboardme@7scales.net</email>
  </author>
 
+ 
+ <entry>
+   <title>Comments Introduced</title>
+   <link href="http://username.github.com/2013/10/18/comments-introduced"/>
+   <updated>2013-10-18T00:00:00+03:00</updated>
+   <id>http://username.github.com/2013/10/18/comments-introduced</id>
+   <content type="html">&lt;h2 id=&#39;comments&#39;&gt;Comments&lt;/h2&gt;
+
+&lt;p&gt;Comments feature was implemented due to user requests and studying user behavior. It emphasizes that Sketchboard is a collaboration tool. Team members are not always using a board at the same time. Sometimes they look sketch at different times. Since sketching is mostly about communication, clarifying the problem for your self or with others, comments makes possible to communicate questions or ideas without using realtime collaboration. Once you are done with comments you can close them.&lt;/p&gt;
+
+&lt;h4 id=&#39;example_board_with_comments_and_annotations&#39;&gt;Example Board with Comments and Annotations&lt;/h4&gt;
+
+&lt;p&gt;&lt;img alt=&#39;Annotations and Comments&#39; src=&#39;/images/annotations-comments.png&#39; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Example board shows how annotations and comments are shown. Annotations are red lined and comments are red blocks.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&#39;comments_feature&#39;&gt;Comments Feature&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;New Shortcut &amp;#8216;C&amp;#8217; &amp;#8211; toggles comments and annotations visibility&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;Close comment thread by clicking &amp;#8220;Done&amp;#8221;&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;Comments are automatically visible when user enters a commented board&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;Open all comments through &amp;#8220;Switch Board Menu&amp;#8221;, Click Comments&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;View history of comments&lt;/li&gt;
+
+&lt;li&gt;Reopen comments if needed&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#39;close_comments&#39;&gt;Close Comments&lt;/h4&gt;
+
+&lt;p&gt;&lt;img alt=&#39;Close Comments&#39; src=&#39;/images/close-comments.png&#39; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Close comment by clicking &amp;#8220;Done&amp;#8221; button. Closed comments can be found later from all comments dialog.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h4 id=&#39;annotate_elements&#39;&gt;Annotate Elements&lt;/h4&gt;
+
+&lt;p&gt;&lt;img alt=&#39;Annotate Context Menu&#39; src=&#39;/images/annotate-context-menu.png&#39; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Elements can be marked as annotated from the context menu.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h4 id=&#39;add_comments&#39;&gt;Add Comments&lt;/h4&gt;
+
+&lt;p&gt;&lt;img alt=&#39;Add Comments&#39; src=&#39;/images/adding-comments.png&#39; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Comments are added through board context menu. Long press or double click the board, select &amp;#8220;Add Diagram Element&amp;#8221; and Comments element from the popup.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h4 id=&#39;view_all_comments&#39;&gt;View All Comments&lt;/h4&gt;
+
+&lt;p&gt;&lt;img alt=&#39;Show Comments&#39; src=&#39;/images/show-comments.png&#39; /&gt; &lt;img alt=&#39;All Comments&#39; src=&#39;/images/all-comments.png&#39; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;You can view all comments through &amp;#8220;Switch Board Menu&amp;#8221; &amp;#8220;Comments&amp;#8221; button.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&#39;when_to_use_comment&#39;&gt;When to use Comment&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;if you want to include automatic user info and timestamp when comment was given&lt;/li&gt;
+
+&lt;li&gt;you want to highlight problems or open questions&lt;/li&gt;
+
+&lt;li&gt;you want to track that comment gets closed and view comments history later&lt;/li&gt;
+
+&lt;li&gt;support different kind of work flows, when team members are not using a board at the same time&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#39;how_comments_usage_differs_from_original_notes&#39;&gt;How Comments usage differs from original Notes&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;more a decision and problem solving while notes are more part of the board&lt;/li&gt;
+
+&lt;li&gt;comments are hidden if not on comment mode, it is possible to toggle the visibility&lt;/li&gt;
+
+&lt;li&gt;you can see dialog between team members, comments shows who has created the comment and when&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#39;annotations&#39;&gt;Annotations&lt;/h3&gt;
+
+&lt;p&gt;In addition to plain comments also annotations are introduced. Annotations are pretty much comments as well and visibility is toggled with the comments.&lt;/p&gt;
+
+&lt;h3 id=&#39;annotations_feature&#39;&gt;Annotations Feature&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;any element can be annotation&lt;/li&gt;
+
+&lt;li&gt;colors cannot be changed, always highlighted with a red color&lt;/li&gt;
+
+&lt;li&gt;Use element(s) context menu to toggle if element is annotation or not&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#39;annotation_usages&#39;&gt;Annotation Usages&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;you can show how sketch could look like&lt;/li&gt;
+
+&lt;li&gt;you can highlight temporarily with comments that something should be noticed. Use e.g. freehand to circle area that should be noticed with the comments.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#39;changes&#39;&gt;Changes&lt;/h3&gt;
+
+&lt;p&gt;Relatively big changes on the server and on the data model, but hopefully it was worth it and you are happy with it :) Also big changes on the client side. It was way more work than expected :)&lt;/p&gt;
+
+&lt;h3 id=&#39;feedback&#39;&gt;Feedback&lt;/h3&gt;
+
+&lt;p&gt;As always, please send feedback, is it good or just disturbing? You can use any of the feedback channels. Directly use feedback form in the application, post feedback in here or tweet.&lt;/p&gt;</content>
+ </entry>
  
  <entry>
    <title>Markdown Like Text Formatting</title>
