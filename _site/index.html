@@ -284,6 +284,16 @@
 
 <p>In Sketchboard you can sketch ideas together at the same time or separately when you have time. One possible way to work is to draft something out and have conversation about the design on Flowdock. For that purpose it is now possible to send a message from Sketchboard to Flowdock Team Inbox.</p>
 
+<p>Flowdock Inbox Messages:</p>
+
+<ul>
+<li>Send board snapshots to your flows</li>
+
+<li>Automatic message when board is shared</li>
+
+<li>Automatic message when board is commented. Enabled when board is shared with the account.</li>
+</ul>
+
 <h3 id='sketchboard_flowdock_team_inbox_message'>Sketchboard Flowdock Team Inbox Message</h3>
 
 <p><img alt='Flowdock Sketchboard Inbox Message' src='/images/flowdock-inbox-sketchboard-message.png' /></p>
@@ -386,243 +396,6 @@
 <li>- zooms out (when not editing an element)</li>
 </ul>
 		
-		<h1><a href='/2013/02/12/improved-realtime-synchronization'>Improved Realtime Synchronization</a></h1>
-		<p>Sketchboard.Me uses amazing Lift as it’s backend. However current Sketchboard.Me implementation has not been able to guarantee that synchronization between client boards is 100%. Especially when Sketchboard.Me works in Operational Transfer manner, it sends only changes not the whole board.</p>
-
-<p>You might have suffered losing some of the changes, you are seeing different version of the board than your team mate. This could have happened due to number of different reasons and not for least because of bugs. But sometimes there are network failures, it cannot be guaranteed that all operations are delivered to all clients.</p>
-
-<p>Sketchboard.Me is also going towards mobile devices. iPad is the first “mobile” device that Sketchboard.Me supports, it is possible to use Sketchboard.Me on iPad Safari and Chrome web browsers.</p>
-
-<p>Another reason for lost operations on mobile devices might be power saving. Mobile devices shut down network traffic, if you are not using the device. The server cannot deliver operations for those devices during that time. Lift takes care automatically the situation when client session is dead - the board will be automatically reloaded, Lift does also amazing job to guarantee the delivery, but sometimes deliveries are lost.</p>
-
-<p>To fix these lost deliveries and guarantee better board synchronization, Sketchboard.Me implements checksum with Operational Transform. It might not check every move that you do, because checksum calculation is little bit heavy. To keep client as responsive as possible, for your moves, as a compromise Sketchboard.Me will check the board checksum when user is not modifying the board. In case the client and the server checksum differs and the client has lost some operations, the board will reload. For now it just reloads the whole page, since it is still quite rare situation and as a user you will notice a page refresh.</p>
-
-<p>Hopefully you will enjoy improved synchronization!</p>
-		
-		<h1><a href='/2012/11/03/publishing-the-board'>Publishing the Board</a></h1>
-		<p>Now Sketchboard.Me provides possibility to publish a board. The published board can be embedded into your website.</p>
-
-<p>Select the Publish menu item. <img alt='Publish menu item' src='/images/publish-menu.png' /></p>
-
-<p>Copy the Embed code and paste it into your web page. <img alt='Embed Code' src='/images/embed-code.png' /></p>
-
-<p>Below you can see the embedded board. Click the image and you can start to edit it. Board is opened in Sketchboard.Me. For security reasons, the board is automatically password protected and password protection is required before publishing. Idea is to make it as easy as possible to reedit the diagram and still have it safe from unwanted modifications. <a href='http://sketchboard.me/XxXR979SthrF' target='_blank'><img src='http://sketchboard.me/img/XxXR979SthrF' /><img /></a></p>
-
-<p>Published image is not automatically regenerated when the board is changed. Therefore snapshot of the board needs to be republished before it is available through the embed code. This also allows you to control what is published and when you want to publish a snapshot of the board.</p>
-
-<p><img alt='Republish' src='/images/republish.png' /></p>
-
-<p><strong>NOTE!</strong></p>
-
-<ul>
-<li>When you download the board as an image it will also update the published image. <img alt='Download Menu Item' src='/images/download-menu-item.png' /></li>
-
-<li>Unicode chararacters are not supported at the moment.</li>
-
-<li>Published boards are <strong>public</strong> and those will be available through <strong>public listing</strong> at some point</li>
-</ul>
-		
-		<h1><a href='/2012/11/03/more-paper-like'>More Paper Like</a></h1>
-		<p>Sketchboard.Me got a new background and lighter drawing style. In this way board is more paper like and the old grey style is gone. Background tries to represent a white paper. By default the background of an item is transparent and border is black, which looks more like pen drawing on a paper. This doesn&#8217;t prevent using colors!</p>
-
-<p><strong>Example</strong>. Paper like background and background color changed. Border has a little bit darker color compared to the item backround.</p>
-
-<p><img alt='Changing Background Color' src='/images/background-border.png' /></p>
-
-<p>Color menu has now possibility to change the background and the border separately. When changing the background it is still automatically changing the border color as well.</p>
-
-<p><img alt='Color Menu' src='/images/color-menu.png' /></p>
-		
-		<h1><a href='/2012/09/25/intuitive-drag--drop-menu-scrolling'>Intuitive Drag and Drop Menu Scrolling</a></h1>
-		<p>Thanks for the feedback!</p>
-
-<p>One of the recently requested usability improvements is Drag &amp; Drop Menu Scrollbars. Earlierly Drag &amp; Drop menu has been using background dragging to reveal more items that are not visible. Functionality was the same as getting more space on the actual drawing area. However it has turned out to be not intuitive for the Drag &amp; Drop menu, users have not found the feature. Therefore Sketchboard.Me Drag &amp; Drop menu has been changed to support scrollbars to make it intuitive, how to reveal more items. It also makes usage more rapid, you can quickly scroll and reveal a needed item.</p>
-
-<p>Scrollbars have been styled for webkit based browsers, e.g. Google Chrome and Safari. Non webkit based browsers have traditional looking scroll bars.</p>
-
-<p><strong>Drag &amp; Drop Menu in Chrome</strong></p>
-
-<p><img alt='Drag &amp; Drop Menu - Chrome' src='/images/dragdropmenu-chrome.png' /></p>
-
-<p><strong>Drag &amp; Drop Menu in Firefox</strong></p>
-
-<p><img alt='Drag &amp; Drop Menu - Firefox' src='/images/dragdropmenu-firefox.png' /></p>
-		
-		<h1><a href='/2012/08/18/initial-google-drive-integration'>Initial Google Drive Integration</a></h1>
-		<p>Now Sketchboard.Me has an initial support for Google Drive. You can use Google Drive features with your sketchboards, share with your existing contacts, search sketchboards by a shortcut name and see who has last modified the board.</p>
-
-<p>Currently supported:</p>
-
-<ul>
-<li>
-<p>Adding shortcuts from Google Drive Menu or from Sketchboard.Me itself</p>
-</li>
-
-<li>
-<p>Shortcut gets board name only once when created from Sketchboard.Me</p>
-</li>
-
-<li>
-<p><strong>NOTE:</strong> Shared files on Google Drive. Currently everyone can edit the board even though they have only viewer or commenter rights on Google Drive</p>
-</li>
-
-<li>
-<p>You need PRO account to use Google Drive integration (everyone will be pro during the alpha stage! :))</p>
-</li>
-</ul>
-
-<h4 id='installing_sketchboardme_on_google_drive'>Installing Sketchboard.Me on Google Drive</h4>
-
-<ul>
-<li>Enable and take <a href='https://drive.google.com'>Google Drive</a> into use</li>
-
-<li><a href='https://chrome.google.com/webstore/detail/bgafhjpdkfjfmmjbebbdckolonomaoil'>Install Sketchboard.Me</a></li>
-</ul>
-
-<h4 id='create_sketchboardme_shortcut_from_google_drive'>Create Sketchboard.Me shortcut from Google Drive:</h4>
-
-<p><img alt='Google Drive Menu' src='/images/google-drive-menu.png' /></p>
-
-<h4 id='sketchboardme_on_chrome'>Sketchboard.Me on Chrome:</h4>
-
-<p><img alt='Sketchboard.Me as Chrome App' src='/images/sketchboardme-chrome-launch.png' /></p>
-
-<h4 id='google_drive_menu_on_sketchboardme'>Google Drive Menu on Sketchboard.Me:</h4>
-
-<p><img alt='Sketchboard Me Google Drive Menu' src='/images/sketchboard-me-google-drive-menu.png' /></p>
-		
-		<h1><a href='/2012/07/09/resizing-diagram-elements'>Element Auto Resize Helps Sketching</a></h1>
-		<p>Sketchboard.Me changed slightly the way diagram elements are resized on the board. Now resize handle is more visible and it is shown only when the element is selected. This is to keep the board visually clean. It might make learning to resize slightly more difficult, but at the same time it is more visible when you click the element and diagram looks better as a whole.</p>
-
-<p>In the end Sketchboard.Me tries to give clever choices for each element how it behaves to enable quick sketching in agile projects. When element is autoresized you can concentrate on the content and Sketchboard.Me supports you to draw your thoughts without a hassle.</p>
-
-<p>There are three types of resize behaviours:</p>
-
-<ul>
-<li><strong>Element auto resizes the height</strong>. You can change the width and element auto resizes the height. Note and text elements implement this kind of behaviour. This is to implement automatic word wrapping.</li>
-
-<li><strong>Element auto resizes widht and height based on the text</strong>. You can change the width and the height, but resize is effective only until you next time change the text.</li>
-
-<li><strong>No autoresize</strong>. Container elements keep the width and the height as the user wants. It will always stay as resized. Container elements can contain something inside.</li>
-</ul>
-
-<p>Rules seems to be complex, but those are meant to be working in a way that you don&#8217;t need to even think about how resizing works. This post is just to clarify why this kind of approach has been selected.</p>
-
-<p>Figure 1. Note element auto resizes the height and word wraps word <img alt='Note Auto Resize' src='/images/note-auto-resize.png' /></p>
-
-<p>Figure 2. Class diagram can be resized, but restores the widht and height after typing a text. <img alt='Class Element Auto Resize' src='/images/classdiagram-resize.png' /></p>
-
-<p>Figure 3. Container elements do not autoresize. <img alt='Container Element Resize' src='/images/container-element-resize.png' /></p>
-
-<p>These behaviours have been added by thinking elements usages. Mostly you just want to draft something out and auto resize makes your life easier, most of the time&#8230;</p>
-
-<p>It might be that in the future auto resize is an option for an element, to give user power to control which elements should be auto resized and which not.</p>
-		
-		<h1><a href='/2012/06/04/freehand-drawing'>Freeeehand Drawing</a></h1>
-		<p>One small step closer to what Sketchboard.Me tries to achieve, drawing a sketch using a pen and providing the same kind of support for thinking as paper and pen or a whiteboard sketching with others. Easily clarify the idea to yourself or others, but digitally and it doesn’t matter where you or collaborators are.</p>
-
-<p>Freehand drawing can be <strong>enabled</strong> from two different places, from a toolbar or from a quick drawing menu. The quick drawing menu can be opened by double clicking the board.</p>
-
-<p><img alt='Quick Insert Menu with Freehand' src='/images/quickinsertmenu.png' /></p>
-
-<p>Once freehand drawing has been enabled, you will see a highlighted freehand drawing mode on top of the board. Draw to the board by using your mouse, left button down and move your mouse.</p>
-
-<p><img alt='Highlighted Freehand Mode On, Sketchboard.Me UI Sketch' src='/images/sketchboardme-ui-sketch.png' /></p>
-
-<p>By clicking the top button, the freehand button on the quick drawing menu or on the toolbar you can disable the freehand mode.</p>
-
-<p>Freehand drawing is not sampling all the points to minimize the data amount. It tries to keep the original shape, but drawing is little bit smoothened. You can also <strong>color fill</strong> the freehand drawing, but by default the fill is transparent. Select a color and you will get a background color for you drawing. To draw just the line, select transparent.</p>
-
-<p>Note that you can also <strong>connect freehand</strong> items by using the connection helpers.</p>
-
-<p><img alt='Freehand Connection Helpers' src='/images/freehand-connect.png' /></p>
-		
-		<h1><a href='/2012/05/27/remove-obsolete-boards'>Remove Obsolete Boards</a></h1>
-		<p>Sometimes it is annoying to see all old sketchboards on switch list. E.g. some drafts that you have abandoned and you wouldn’t like to see those on your list any longer. Therefore a board can be now removed from the switch list.</p>
-
-<p>Open switch list and navigate to the board that you don’t want to see any longer. Board is removed only from the list, it is not removed from the database. Of course if it is a free board, it will be removed after 30 days.</p>
-
-<p><img alt='Remove Board' src='/images/removeboard.png' /></p>
-
-<p>Just in case if you did this by accident you can always open the removed url and board will be associated to you again. Hopefully you have the url somewhere :) That’s why board removal asks you to confirm the removal.</p>
-
-<p><img alt='Remove Board Confirmation' src='/images/removeboardconf.png' /></p>
-		
-		<h1><a href='/2012/05/23/reuse-diagrams'>Reuse Diagrams</a></h1>
-		<p>Reuse diagrams by copying the current board as a new board. This gives you a possibility to create alternative designs. Continue only with the one that is better and ditch the other one. You can even create your own template diagram library.</p>
-
-<p>Select &#8220;Copy Board&#8221; and a new board is created for you. Location of the copy board button depends whether you are logged in or not. When you are logged in you can copy the board from the switch board list.</p>
-
-<p><img alt='Copy Board - Logged In' src='/images/copyboard-loggedin.png' /></p>
-
-<p>When you are not logged in, copy button is directly available from the toolbar. Reasons for different locations are that there has started to be quite many buttons in the toolbar, not logged in users see less options. Also new users can quickly get started by copying from a read only example board. One reason is that logically user is switching a board, to sum these up, decision was to have two different locations.</p>
-
-<p><img alt='Copy Board - Not Logged In' src='/images/copyboard-notlogged.png' /></p>
-		
-		<h1><a href='/2012/05/12/named-boards'>Named Boards</a></h1>
-		<p>Easily differentiate your boards from each other with named boards. It is also easier to remember what is the content of a <strong>pro board</strong>.</p>
-
-<p><img alt='Change Board Name Menu' src='/images/change-board-name.png' /> <img alt='Change Board Name Menu Popup' src='/images/change-board-name-popup.png' /></p>
-
-<p>Switch board list shows human readable name, something that you have given.</p>
-
-<p><img alt='Switch Board List with name boards' src='/images/switch-list-named-boards.png' /></p>
-		
-		<h1><a href='/2012/05/09/password-protect-your-board'>Password Protect Your Board</a></h1>
-		<p>Once you have set your board as pro you can protect it with a password. Password is not required from the board owner. Empty password clears password protection and only owner of the board can set the password. Share the password with collaborators and you are good to go.</p>
-
-<p><img alt='Protect Board' src='/images/protectboard.png' /></p>
-		
-		<h1><a href='/2012/05/07/go-pro'>Go Pro</a></h1>
-		<p>Become a <strong>Pro Sketchboard.Me</strong> user. First signup and then send email from your signup email to sketchboardme[at]7scales.net to get your pro status, <em>subject: go pro</em>, that&#8217;s it! With Pro account you are able to</p>
-
-<ul>
-<li>Mark Boards as Pro, find pro boards as first in the switch board list</li>
-
-<li>Protect Pro boards with a password</li>
-
-<li>Share Pro boards with readonly url</li>
-
-<li>Pro boards are not removed after 30 days</li>
-</ul>
-
-<p>At this phase you can mark five boards as Pro. As always, give feedback! sketchboardme[ at ]7scales.net or <a href='http://twitter.com/#!/sketchboardme'>@SketchboardMe</a>.</p>
-		
-		<h1><a href='/2012/05/06/switch-board'>Switch Board</a></h1>
-		<p>Switch board list enables you to quickly change a board. In case you want to have multiple boards open at the same time, press cmd/ctrl key while clicking the link, it opens the board to a new tab.</p>
-
-<p>To change your board status to pro, click the left most empty box next to the board url. Pro boards can be recognized from the green pro icon and are first in the list. Currently open board is highlighted with light grey background color. Boards that you are admin of are marked with <strong>me</strong> in the end of each line. You can change pro status only for those.</p>
-
-<p><img alt='Switch board list' src='/images/switchboard.png' /></p>
-		
-		<h1><a href='/2012/05/06/read-only-board'>Read Only Board</a></h1>
-		<p>As a Pro Sketchboard.Me user you can share board read only url. Note that board needs to be marked as pro.</p>
-
-<ul>
-<li>Select &#8220;Email Read Only URL&#8221;</li>
-</ul>
-
-<p><img alt='Share Read Only URL' src='/images/sendreadonlyurl.png' /></p>
-
-<p>From the Share popup, you can see board read only url. When board is accessed through this URL, board cannot be modified.</p>
-
-<ul>
-<li>To: write email addresses, comma separated</li>
-
-<li>Board name: type your board name (this is optional, but makes easier to find from the inbox.</li>
-</ul>
-
-<p><img alt='Email Read Only URL' src='/images/emailreadonlyurl.png' /></p>
-
-<p>Try it your self!</p>
-
-<p><strong>Editable Board</strong>: <a href='http://sketchboard.me/fxG7iMD1lIGg'>http://sketchboard.me/fxG7iMD1lIGg</a></p>
-
-<p><strong>Same board with Read Only URL</strong>: <a href='http://sketchboard.me/oxG7j9AAVptr'>http://sketchboard.me/oxG7j9AAVptr</a></p>
-		
-		<h1><a href='/2012/05/06/hello'>Hello</a></h1>
-		<p>Sketchboard.Me starts to keep blog to give quick overview of features, news and thoughts. Technically blog is powered by Github, Jekyll + Jekyll Boostrap and Twitter Boostrap. Blog is running on Github Pages that automatically publish the blog on each git commit. First impression of Github Pages combined with Jekyll is great. It is really easy to use and very convinient. Setup makes possible to edit and publish blog content directly through a web browser by editing files through Github, which is extremely nice!</p>
-		
 	</div>
 	<div class='span4'>
 		<ul class='unstyled posts'>
@@ -638,36 +411,6 @@
 		    <li><span>22 Jul 2013</span> &raquo; <a href='/2013/07/22/accounts-introduced'>Accounts Introduced</a></li>
 		  
 		    <li><span>20 Jun 2013</span> &raquo; <a href='/2013/06/20/map-view'>Map View</a></li>
-		  
-		    <li><span>12 Feb 2013</span> &raquo; <a href='/2013/02/12/improved-realtime-synchronization'>Improved Realtime Synchronization</a></li>
-		  
-		    <li><span>03 Nov 2012</span> &raquo; <a href='/2012/11/03/publishing-the-board'>Publishing the Board</a></li>
-		  
-		    <li><span>03 Nov 2012</span> &raquo; <a href='/2012/11/03/more-paper-like'>More Paper Like</a></li>
-		  
-		    <li><span>25 Sep 2012</span> &raquo; <a href='/2012/09/25/intuitive-drag--drop-menu-scrolling'>Intuitive Drag and Drop Menu Scrolling</a></li>
-		  
-		    <li><span>18 Aug 2012</span> &raquo; <a href='/2012/08/18/initial-google-drive-integration'>Initial Google Drive Integration</a></li>
-		  
-		    <li><span>09 Jul 2012</span> &raquo; <a href='/2012/07/09/resizing-diagram-elements'>Element Auto Resize Helps Sketching</a></li>
-		  
-		    <li><span>04 Jun 2012</span> &raquo; <a href='/2012/06/04/freehand-drawing'>Freeeehand Drawing</a></li>
-		  
-		    <li><span>27 May 2012</span> &raquo; <a href='/2012/05/27/remove-obsolete-boards'>Remove Obsolete Boards</a></li>
-		  
-		    <li><span>23 May 2012</span> &raquo; <a href='/2012/05/23/reuse-diagrams'>Reuse Diagrams</a></li>
-		  
-		    <li><span>12 May 2012</span> &raquo; <a href='/2012/05/12/named-boards'>Named Boards</a></li>
-		  
-		    <li><span>09 May 2012</span> &raquo; <a href='/2012/05/09/password-protect-your-board'>Password Protect Your Board</a></li>
-		  
-		    <li><span>07 May 2012</span> &raquo; <a href='/2012/05/07/go-pro'>Go Pro</a></li>
-		  
-		    <li><span>06 May 2012</span> &raquo; <a href='/2012/05/06/switch-board'>Switch Board</a></li>
-		  
-		    <li><span>06 May 2012</span> &raquo; <a href='/2012/05/06/read-only-board'>Read Only Board</a></li>
-		  
-		    <li><span>06 May 2012</span> &raquo; <a href='/2012/05/06/hello'>Hello</a></li>
 		  
 		</ul>
 	</div>	

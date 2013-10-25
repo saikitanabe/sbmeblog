@@ -11,6 +11,11 @@ When your team uses Flowdock as a virtual room to keep everybody uptodate in the
 
 In Sketchboard you can sketch ideas together at the same time or separately when you have time. One possible way to work is to draft something out and have conversation about the design on Flowdock. For that purpose it is now possible to send a message from Sketchboard to Flowdock Team Inbox.
 
+Flowdock Inbox Messages:
+
+- Send board snapshots to your flows
+- Automatic message when board is shared
+- Automatic message when board is commented. Enabled when board is shared with the account.
 
 ### Sketchboard Flowdock Team Inbox Message
 

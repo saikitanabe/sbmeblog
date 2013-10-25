@@ -4,7 +4,7 @@
  <title>Sketchboard.Me's Blog</title>
  <link href="http://username.github.com/atom.xml" rel="self"/>
  <link href="http://username.github.com"/>
- <updated>2013-10-18T12:30:30+03:00</updated>
+ <updated>2013-10-25T09:02:39+03:00</updated>
  <id>http://username.github.com</id>
  <author>
    <name>7scales Ltd</name>
@@ -17,17 +17,17 @@
    <link href="http://username.github.com/2013/10/18/comments-introduced"/>
    <updated>2013-10-18T00:00:00+03:00</updated>
    <id>http://username.github.com/2013/10/18/comments-introduced</id>
-   <content type="html">&lt;h2 id=&#39;comments&#39;&gt;Comments&lt;/h2&gt;
+   <content type="html">&lt;h2 id='comments'&gt;Comments&lt;/h2&gt;
 
 &lt;p&gt;Comments feature was implemented due to user requests and studying user behavior. It emphasizes that Sketchboard is a collaboration tool. Team members are not always using a board at the same time. Sometimes they look sketch at different times. Since sketching is mostly about communication, clarifying the problem for your self or with others, comments makes possible to communicate questions or ideas without using realtime collaboration. Once you are done with comments you can close them.&lt;/p&gt;
 
-&lt;h4 id=&#39;example_board_with_comments_and_annotations&#39;&gt;Example Board with Comments and Annotations&lt;/h4&gt;
+&lt;h4 id='example_board_with_comments_and_annotations'&gt;Example Board with Comments and Annotations&lt;/h4&gt;
 
-&lt;p&gt;&lt;img alt=&#39;Annotations and Comments&#39; src=&#39;/images/annotations-comments.png&#39; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt='Annotations and Comments' src='/images/annotations-comments.png' /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Example board shows how annotations and comments are shown. Annotations are red lined and comments are red blocks.&lt;/em&gt;&lt;/p&gt;
 
-&lt;h3 id=&#39;comments_feature&#39;&gt;Comments Feature&lt;/h3&gt;
+&lt;h3 id='comments_feature'&gt;Comments Feature&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;
@@ -53,31 +53,31 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&#39;close_comments&#39;&gt;Close Comments&lt;/h4&gt;
+&lt;h4 id='close_comments'&gt;Close Comments&lt;/h4&gt;
 
-&lt;p&gt;&lt;img alt=&#39;Close Comments&#39; src=&#39;/images/close-comments.png&#39; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt='Close Comments' src='/images/close-comments.png' /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Close comment by clicking &amp;#8220;Done&amp;#8221; button. Closed comments can be found later from all comments dialog.&lt;/em&gt;&lt;/p&gt;
 
-&lt;h4 id=&#39;annotate_elements&#39;&gt;Annotate Elements&lt;/h4&gt;
+&lt;h4 id='annotate_elements'&gt;Annotate Elements&lt;/h4&gt;
 
-&lt;p&gt;&lt;img alt=&#39;Annotate Context Menu&#39; src=&#39;/images/annotate-context-menu.png&#39; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt='Annotate Context Menu' src='/images/annotate-context-menu.png' /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Elements can be marked as annotated from the context menu.&lt;/em&gt;&lt;/p&gt;
 
-&lt;h4 id=&#39;add_comments&#39;&gt;Add Comments&lt;/h4&gt;
+&lt;h4 id='add_comments'&gt;Add Comments&lt;/h4&gt;
 
-&lt;p&gt;&lt;img alt=&#39;Add Comments&#39; src=&#39;/images/adding-comments.png&#39; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt='Add Comments' src='/images/adding-comments.png' /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Comments are added through board context menu. Long press or double click the board, select &amp;#8220;Add Diagram Element&amp;#8221; and Comments element from the popup.&lt;/em&gt;&lt;/p&gt;
 
-&lt;h4 id=&#39;view_all_comments&#39;&gt;View All Comments&lt;/h4&gt;
+&lt;h4 id='view_all_comments'&gt;View All Comments&lt;/h4&gt;
 
-&lt;p&gt;&lt;img alt=&#39;Show Comments&#39; src=&#39;/images/show-comments.png&#39; /&gt; &lt;img alt=&#39;All Comments&#39; src=&#39;/images/all-comments.png&#39; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt='Show Comments' src='/images/show-comments.png' /&gt; &lt;img alt='All Comments' src='/images/all-comments.png' /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;You can view all comments through &amp;#8220;Switch Board Menu&amp;#8221; &amp;#8220;Comments&amp;#8221; button.&lt;/em&gt;&lt;/p&gt;
 
-&lt;h3 id=&#39;when_to_use_comment&#39;&gt;When to use Comment&lt;/h3&gt;
+&lt;h3 id='when_to_use_comment'&gt;When to use Comment&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;if you want to include automatic user info and timestamp when comment was given&lt;/li&gt;
@@ -89,7 +89,7 @@
 &lt;li&gt;support different kind of work flows, when team members are not using a board at the same time&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#39;how_comments_usage_differs_from_original_notes&#39;&gt;How Comments usage differs from original Notes&lt;/h3&gt;
+&lt;h3 id='how_comments_usage_differs_from_original_notes'&gt;How Comments usage differs from original Notes&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;more a decision and problem solving while notes are more part of the board&lt;/li&gt;
@@ -99,11 +99,11 @@
 &lt;li&gt;you can see dialog between team members, comments shows who has created the comment and when&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#39;annotations&#39;&gt;Annotations&lt;/h3&gt;
+&lt;h3 id='annotations'&gt;Annotations&lt;/h3&gt;
 
 &lt;p&gt;In addition to plain comments also annotations are introduced. Annotations are pretty much comments as well and visibility is toggled with the comments.&lt;/p&gt;
 
-&lt;h3 id=&#39;annotations_feature&#39;&gt;Annotations Feature&lt;/h3&gt;
+&lt;h3 id='annotations_feature'&gt;Annotations Feature&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;any element can be annotation&lt;/li&gt;
@@ -113,7 +113,7 @@
 &lt;li&gt;Use element(s) context menu to toggle if element is annotation or not&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#39;annotation_usages&#39;&gt;Annotation Usages&lt;/h3&gt;
+&lt;h3 id='annotation_usages'&gt;Annotation Usages&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;you can show how sketch could look like&lt;/li&gt;
@@ -121,11 +121,11 @@
 &lt;li&gt;you can highlight temporarily with comments that something should be noticed. Use e.g. freehand to circle area that should be noticed with the comments.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#39;changes&#39;&gt;Changes&lt;/h3&gt;
+&lt;h3 id='changes'&gt;Changes&lt;/h3&gt;
 
 &lt;p&gt;Relatively big changes on the server and on the data model, but hopefully it was worth it and you are happy with it :) Also big changes on the client side. It was way more work than expected :)&lt;/p&gt;
 
-&lt;h3 id=&#39;feedback&#39;&gt;Feedback&lt;/h3&gt;
+&lt;h3 id='feedback'&gt;Feedback&lt;/h3&gt;
 
 &lt;p&gt;As always, please send feedback, is it good or just disturbing? You can use any of the feedback channels. Directly use feedback form in the application, post feedback in here or tweet.&lt;/p&gt;</content>
  </entry>
@@ -141,19 +141,19 @@
 
 &lt;p&gt;There are some differences for Markdown. Sketchboard legacy *bold* makes text bold and not emphasized. In the future another probable exception might be that two underscores are used for __underlined text__ and not for text bolding.&lt;/p&gt;
 
-&lt;h1 id=&#39;headings&#39;&gt;Headings&lt;/h1&gt;
+&lt;h1 id='headings'&gt;Headings&lt;/h1&gt;
 
 &lt;p&gt;Markdown provides two styles to write headings.&lt;/p&gt;
 
-&lt;p&gt;&lt;img alt=&#39;Heading Example&#39; src=&#39;/images/Setext-heading-example.png&#39; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt='Heading Example' src='/images/Setext-heading-example.png' /&gt;&lt;/p&gt;
 
-&lt;p&gt;Note Element &lt;img alt=&#39;Heading Syntax (Notes)&#39; src=&#39;/images/note-heading-markdown.png&#39; /&gt;&lt;/p&gt;
+&lt;p&gt;Note Element &lt;img alt='Heading Syntax (Notes)' src='/images/note-heading-markdown.png' /&gt;&lt;/p&gt;
 
-&lt;p&gt;Just Text Element &lt;img alt=&#39;Heading Just Text&#39; src=&#39;/images/just-text-heading.png&#39; /&gt;&lt;/p&gt;
+&lt;p&gt;Just Text Element &lt;img alt='Heading Just Text' src='/images/just-text-heading.png' /&gt;&lt;/p&gt;
 
-&lt;h1 id=&#39;bullets&#39;&gt;Bullets&lt;/h1&gt;
+&lt;h1 id='bullets'&gt;Bullets&lt;/h1&gt;
 
-&lt;p&gt;&lt;img alt=&#39;Notes Bullets Syntax&#39; src=&#39;/images/note-bullets-markdown2.png&#39; /&gt; &lt;img alt=&#39;Just Text Bullets&#39; src=&#39;/images/just-text-bullets.png&#39; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt='Notes Bullets Syntax' src='/images/note-bullets-markdown2.png' /&gt; &lt;img alt='Just Text Bullets' src='/images/just-text-bullets.png' /&gt;&lt;/p&gt;
 
 &lt;p&gt;You can use either - or * characters for bullet point.&lt;/p&gt;
 
@@ -165,17 +165,17 @@
 
 &lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;, Nested level bullets are 4/8 spaces. You can use TAB to autofill 4 space characters in the editor.&lt;/p&gt;
 
-&lt;h1 id=&#39;bold_and_italics&#39;&gt;Bold and Italics&lt;/h1&gt;
+&lt;h1 id='bold_and_italics'&gt;Bold and Italics&lt;/h1&gt;
 
-&lt;p&gt;&lt;img alt=&#39;Bold and Italic&#39; src=&#39;/images/note-bold-italic.png&#39; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt='Bold and Italic' src='/images/note-bold-italic.png' /&gt;&lt;/p&gt;
 
-&lt;h1 id=&#39;escaping&#39;&gt;Escaping&lt;/h1&gt;
+&lt;h1 id='escaping'&gt;Escaping&lt;/h1&gt;
 
-&lt;p&gt;When you want to show characters used in formatting, those needs to be escaped with \. &lt;img alt=&#39;Note Escaping&#39; src=&#39;/images/note-escaping.png&#39; /&gt;&lt;/p&gt;
+&lt;p&gt;When you want to show characters used in formatting, those needs to be escaped with \. &lt;img alt='Note Escaping' src='/images/note-escaping.png' /&gt;&lt;/p&gt;
 
-&lt;h1 id=&#39;thanks&#39;&gt;Thanks&lt;/h1&gt;
+&lt;h1 id='thanks'&gt;Thanks&lt;/h1&gt;
 
-&lt;p&gt;Thanks to this excellent markdown library &lt;a href=&#39;https://github.com/chjj/marked&#39;&gt;Marked&lt;/a&gt;.&lt;/p&gt;</content>
+&lt;p&gt;Thanks to this excellent markdown library &lt;a href='https://github.com/chjj/marked'&gt;Marked&lt;/a&gt;.&lt;/p&gt;</content>
  </entry>
  
  <entry>
@@ -185,7 +185,7 @@
    <id>http://username.github.com/2013/08/31/export-selected</id>
    <content type="html">&lt;p&gt;From now on Sketchboard obeys selected elements when exporting a board. In case you have selected some elements from the board, exports obeys the selection. In case you don&amp;#8217;t select anything, full board will be exported.&lt;/p&gt;
 
-&lt;h3 id=&#39;steps&#39;&gt;Steps&lt;/h3&gt;
+&lt;h3 id='steps'&gt;Steps&lt;/h3&gt;
 
 &lt;ol&gt;
 &lt;li&gt;Select elements&lt;/li&gt;
@@ -193,13 +193,13 @@
 &lt;li&gt;Select export method, e.g. Print&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h3 id=&#39;export_only_selected_elements_as_png&#39;&gt;Export Only Selected Elements as PNG&lt;/h3&gt;
+&lt;h3 id='export_only_selected_elements_as_png'&gt;Export Only Selected Elements as PNG&lt;/h3&gt;
 
-&lt;p&gt;&lt;img alt=&#39;Export Selected&#39; src=&#39;/images/export-selected.png&#39; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt='Export Selected' src='/images/export-selected.png' /&gt;&lt;/p&gt;
 
-&lt;h3 id=&#39;export_only_selected_downloaded_file&#39;&gt;Export Only Selected Downloaded File&lt;/h3&gt;
+&lt;h3 id='export_only_selected_downloaded_file'&gt;Export Only Selected Downloaded File&lt;/h3&gt;
 
-&lt;p&gt;&lt;img alt=&#39;Export Selected Downloaded Image&#39; src=&#39;/images/export-selected-result.png&#39; /&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;img alt='Export Selected Downloaded Image' src='/images/export-selected-result.png' /&gt;&lt;/p&gt;</content>
  </entry>
  
  <entry>
@@ -211,20 +211,30 @@
 
 &lt;p&gt;In Sketchboard you can sketch ideas together at the same time or separately when you have time. One possible way to work is to draft something out and have conversation about the design on Flowdock. For that purpose it is now possible to send a message from Sketchboard to Flowdock Team Inbox.&lt;/p&gt;
 
-&lt;h3 id=&#39;sketchboard_flowdock_team_inbox_message&#39;&gt;Sketchboard Flowdock Team Inbox Message&lt;/h3&gt;
+&lt;p&gt;Flowdock Inbox Messages:&lt;/p&gt;
 
-&lt;p&gt;&lt;img alt=&#39;Flowdock Sketchboard Inbox Message&#39; src=&#39;/images/flowdock-inbox-sketchboard-message.png&#39; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Send board snapshots to your flows&lt;/li&gt;
+
+&lt;li&gt;Automatic message when board is shared&lt;/li&gt;
+
+&lt;li&gt;Automatic message when board is commented. Enabled when board is shared with the account.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id='sketchboard_flowdock_team_inbox_message'&gt;Sketchboard Flowdock Team Inbox Message&lt;/h3&gt;
+
+&lt;p&gt;&lt;img alt='Flowdock Sketchboard Inbox Message' src='/images/flowdock-inbox-sketchboard-message.png' /&gt;&lt;/p&gt;
 
 &lt;p&gt;Message contains picture that is a snapshot of the board, optional content and link to the latest version of the board.&lt;/p&gt;
 
-&lt;h3 id=&#39;configuration&#39;&gt;Configuration&lt;/h3&gt;
+&lt;h3 id='configuration'&gt;Configuration&lt;/h3&gt;
 
 &lt;p&gt;All you need is a Flow API token.&lt;/p&gt;
 
 &lt;ol&gt;
 &lt;li&gt;Account admin adds Flow API Token through +Integrations menu&lt;/li&gt;
 
-&lt;li&gt;Go to &lt;a href=&#39;https://www.flowdock.com/account/tokens&#39; target=&#39;_blank&#39;&gt;https://www.flowdock.com/account/tokens&lt;/a&gt; to retrieve your flow API token&lt;/li&gt;
+&lt;li&gt;Go to &lt;a href='https://www.flowdock.com/account/tokens' target='_blank'&gt;https://www.flowdock.com/account/tokens&lt;/a&gt; to retrieve your flow API token&lt;/li&gt;
 
 &lt;li&gt;Select &amp;#8220;Sent to Flowdock&amp;#8221; menu item&lt;/li&gt;
 
@@ -237,21 +247,21 @@
 &lt;li&gt;optionally write custom content to the message&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&#39;integrations_menu&#39;&gt;Integrations Menu&lt;/h4&gt;
+&lt;h4 id='integrations_menu'&gt;Integrations Menu&lt;/h4&gt;
 
-&lt;p&gt;&lt;img alt=&#39;Integrations Menu&#39; src=&#39;/images/integrations-link.png&#39; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt='Integrations Menu' src='/images/integrations-link.png' /&gt;&lt;/p&gt;
 
-&lt;h4 id=&#39;integrations_page&#39;&gt;Integrations Page&lt;/h4&gt;
+&lt;h4 id='integrations_page'&gt;Integrations Page&lt;/h4&gt;
 
-&lt;p&gt;&lt;img alt=&#39;Integrate Flowdock&#39; src=&#39;/images/integrations-page.png&#39; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt='Integrate Flowdock' src='/images/integrations-page.png' /&gt;&lt;/p&gt;
 
-&lt;h4 id=&#39;send_to_flowdock_menu&#39;&gt;Send to Flowdock Menu&lt;/h4&gt;
+&lt;h4 id='send_to_flowdock_menu'&gt;Send to Flowdock Menu&lt;/h4&gt;
 
-&lt;p&gt;&lt;img alt=&#39;Send to Flowdock&#39; src=&#39;/images/send-to-flowdock-menu.png&#39; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt='Send to Flowdock' src='/images/send-to-flowdock-menu.png' /&gt;&lt;/p&gt;
 
-&lt;h4 id=&#39;send_to_flowdock_page&#39;&gt;Send to Flowdock Page&lt;/h4&gt;
+&lt;h4 id='send_to_flowdock_page'&gt;Send to Flowdock Page&lt;/h4&gt;
 
-&lt;p&gt;&lt;img alt=&#39;Send to Flowdock Page&#39; src=&#39;/images/send-to-flowdock-page.png&#39; /&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;img alt='Send to Flowdock Page' src='/images/send-to-flowdock-page.png' /&gt;&lt;/p&gt;</content>
  </entry>
  
  <entry>
@@ -261,7 +271,7 @@
    <id>http://username.github.com/2013/07/22/accounts-introduced</id>
    <content type="html">&lt;p&gt;Accounts feature is a step towards supporting business users. Functionality makes boards by default private and those can be shared easily between account users.&lt;/p&gt;
 
-&lt;h2 id=&#39;account&#39;&gt;Account&lt;/h2&gt;
+&lt;h2 id='account'&gt;Account&lt;/h2&gt;
 
 &lt;p&gt;Users in the account are divided to Admin and Members.&lt;/p&gt;
 
@@ -273,7 +283,7 @@
 &lt;li&gt;Account User = Admin or Member &amp;#8211; able to see all boards with account visibility&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#39;visibility&#39;&gt;Visibility&lt;/h2&gt;
+&lt;h2 id='visibility'&gt;Visibility&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Private boards &amp;#8211; only you are able to open the board&lt;/li&gt;
@@ -283,21 +293,21 @@
 &lt;li&gt;Public boards shared with a password &amp;#8211; in case you need to share board addhoc to e.g. client or freelance collaborator. Share board with a password.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#39;sharing&#39;&gt;Sharing&lt;/h2&gt;
+&lt;h2 id='sharing'&gt;Sharing&lt;/h2&gt;
 
 &lt;p&gt;Use &lt;strong&gt;Share Menu&lt;/strong&gt; to quickly share board with account users&lt;/p&gt;
 
-&lt;p&gt;&lt;img alt=&#39;Share Menu&#39; src=&#39;/images/sharemenu.png&#39; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt='Share Menu' src='/images/sharemenu.png' /&gt;&lt;/p&gt;
 
 &lt;p&gt;Use &lt;strong&gt;Password Menu&lt;/strong&gt; to share board to anyone. This is ment to share board outside the company e.g. with clients or other collaborators.&lt;/p&gt;
 
-&lt;p&gt;&lt;img alt=&#39;Share Publicly with a Password&#39; src=&#39;/images/passwordmenu.png&#39; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt='Share Publicly with a Password' src='/images/passwordmenu.png' /&gt;&lt;/p&gt;
 
 &lt;p&gt;Use &lt;strong&gt;Switchboard list&lt;/strong&gt; to quickly share any board from the list&lt;/p&gt;
 
-&lt;p&gt;&lt;img alt=&#39;Switchboard Menu&#39; src=&#39;/images/switchboardshare.png&#39; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt='Switchboard Menu' src='/images/switchboardshare.png' /&gt;&lt;/p&gt;
 
-&lt;h2 id=&#39;changes_to_earlier_sketchboardme&#39;&gt;Changes to earlier Sketchboard.Me&lt;/h2&gt;
+&lt;h2 id='changes_to_earlier_sketchboardme'&gt;Changes to earlier Sketchboard.Me&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;for now it is not possible to share editable boards to others if they don&amp;#8217;t have a password&lt;/li&gt;
@@ -313,7 +323,7 @@
    <id>http://username.github.com/2013/06/20/map-view</id>
    <content type="html">&lt;p&gt;Map view allows users to quickly see the board at once. This is especially useful when big board do not fit to the screen. To enable Map View keep &lt;strong&gt;z key down&lt;/strong&gt;. Recenter the board by moving your mouse and &lt;strong&gt;release z&lt;/strong&gt; key. Map View is only enabled when elements are not edited.&lt;/p&gt;
 
-&lt;p&gt;&lt;img alt=&#39;Map View&#39; src=&#39;/images/mapview.png&#39; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt='Map View' src='/images/mapview.png' /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;New Shortcuts&lt;/strong&gt;&lt;/p&gt;
 
@@ -322,318 +332,6 @@
 
 &lt;li&gt;- zooms out (when not editing an element)&lt;/li&gt;
 &lt;/ul&gt;</content>
- </entry>
- 
- <entry>
-   <title>Improved Realtime Synchronization</title>
-   <link href="http://username.github.com/2013/02/12/improved-realtime-synchronization"/>
-   <updated>2013-02-12T00:00:00+02:00</updated>
-   <id>http://username.github.com/2013/02/12/improved-realtime-synchronization</id>
-   <content type="html">&lt;p&gt;Sketchboard.Me uses amazing Lift as it’s backend. However current Sketchboard.Me implementation has not been able to guarantee that synchronization between client boards is 100%. Especially when Sketchboard.Me works in Operational Transfer manner, it sends only changes not the whole board.&lt;/p&gt;
-
-&lt;p&gt;You might have suffered losing some of the changes, you are seeing different version of the board than your team mate. This could have happened due to number of different reasons and not for least because of bugs. But sometimes there are network failures, it cannot be guaranteed that all operations are delivered to all clients.&lt;/p&gt;
-
-&lt;p&gt;Sketchboard.Me is also going towards mobile devices. iPad is the first “mobile” device that Sketchboard.Me supports, it is possible to use Sketchboard.Me on iPad Safari and Chrome web browsers.&lt;/p&gt;
-
-&lt;p&gt;Another reason for lost operations on mobile devices might be power saving. Mobile devices shut down network traffic, if you are not using the device. The server cannot deliver operations for those devices during that time. Lift takes care automatically the situation when client session is dead - the board will be automatically reloaded, Lift does also amazing job to guarantee the delivery, but sometimes deliveries are lost.&lt;/p&gt;
-
-&lt;p&gt;To fix these lost deliveries and guarantee better board synchronization, Sketchboard.Me implements checksum with Operational Transform. It might not check every move that you do, because checksum calculation is little bit heavy. To keep client as responsive as possible, for your moves, as a compromise Sketchboard.Me will check the board checksum when user is not modifying the board. In case the client and the server checksum differs and the client has lost some operations, the board will reload. For now it just reloads the whole page, since it is still quite rare situation and as a user you will notice a page refresh.&lt;/p&gt;
-
-&lt;p&gt;Hopefully you will enjoy improved synchronization!&lt;/p&gt;</content>
- </entry>
- 
- <entry>
-   <title>Publishing the Board</title>
-   <link href="http://username.github.com/2012/11/03/publishing-the-board"/>
-   <updated>2012-11-03T00:00:00+02:00</updated>
-   <id>http://username.github.com/2012/11/03/publishing-the-board</id>
-   <content type="html">&lt;p&gt;Now Sketchboard.Me provides possibility to publish a board. The published board can be embedded into your website.&lt;/p&gt;
-
-&lt;p&gt;Select the Publish menu item. &lt;img alt=&#39;Publish menu item&#39; src=&#39;/images/publish-menu.png&#39; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Copy the Embed code and paste it into your web page. &lt;img alt=&#39;Embed Code&#39; src=&#39;/images/embed-code.png&#39; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Below you can see the embedded board. Click the image and you can start to edit it. Board is opened in Sketchboard.Me. For security reasons, the board is automatically password protected and password protection is required before publishing. Idea is to make it as easy as possible to reedit the diagram and still have it safe from unwanted modifications. &lt;a href=&#39;http://sketchboard.me/XxXR979SthrF&#39; target=&#39;_blank&#39;&gt;&lt;img src=&#39;http://sketchboard.me/img/XxXR979SthrF&#39; /&gt;&lt;img /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Published image is not automatically regenerated when the board is changed. Therefore snapshot of the board needs to be republished before it is available through the embed code. This also allows you to control what is published and when you want to publish a snapshot of the board.&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt=&#39;Republish&#39; src=&#39;/images/republish.png&#39; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;NOTE!&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;When you download the board as an image it will also update the published image. &lt;img alt=&#39;Download Menu Item&#39; src=&#39;/images/download-menu-item.png&#39; /&gt;&lt;/li&gt;
-
-&lt;li&gt;Unicode chararacters are not supported at the moment.&lt;/li&gt;
-
-&lt;li&gt;Published boards are &lt;strong&gt;public&lt;/strong&gt; and those will be available through &lt;strong&gt;public listing&lt;/strong&gt; at some point&lt;/li&gt;
-&lt;/ul&gt;</content>
- </entry>
- 
- <entry>
-   <title>More Paper Like</title>
-   <link href="http://username.github.com/2012/11/03/more-paper-like"/>
-   <updated>2012-11-03T00:00:00+02:00</updated>
-   <id>http://username.github.com/2012/11/03/more-paper-like</id>
-   <content type="html">&lt;p&gt;Sketchboard.Me got a new background and lighter drawing style. In this way board is more paper like and the old grey style is gone. Background tries to represent a white paper. By default the background of an item is transparent and border is black, which looks more like pen drawing on a paper. This doesn&amp;#8217;t prevent using colors!&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Example&lt;/strong&gt;. Paper like background and background color changed. Border has a little bit darker color compared to the item backround.&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt=&#39;Changing Background Color&#39; src=&#39;/images/background-border.png&#39; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Color menu has now possibility to change the background and the border separately. When changing the background it is still automatically changing the border color as well.&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt=&#39;Color Menu&#39; src=&#39;/images/color-menu.png&#39; /&gt;&lt;/p&gt;</content>
- </entry>
- 
- <entry>
-   <title>Intuitive Drag and Drop Menu Scrolling</title>
-   <link href="http://username.github.com/2012/09/25/intuitive-drag--drop-menu-scrolling"/>
-   <updated>2012-09-25T00:00:00+03:00</updated>
-   <id>http://username.github.com/2012/09/25/intuitive-drag--drop-menu-scrolling</id>
-   <content type="html">&lt;p&gt;Thanks for the feedback!&lt;/p&gt;
-
-&lt;p&gt;One of the recently requested usability improvements is Drag &amp;amp; Drop Menu Scrollbars. Earlierly Drag &amp;amp; Drop menu has been using background dragging to reveal more items that are not visible. Functionality was the same as getting more space on the actual drawing area. However it has turned out to be not intuitive for the Drag &amp;amp; Drop menu, users have not found the feature. Therefore Sketchboard.Me Drag &amp;amp; Drop menu has been changed to support scrollbars to make it intuitive, how to reveal more items. It also makes usage more rapid, you can quickly scroll and reveal a needed item.&lt;/p&gt;
-
-&lt;p&gt;Scrollbars have been styled for webkit based browsers, e.g. Google Chrome and Safari. Non webkit based browsers have traditional looking scroll bars.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Drag &amp;amp; Drop Menu in Chrome&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt=&#39;Drag &amp;amp; Drop Menu - Chrome&#39; src=&#39;/images/dragdropmenu-chrome.png&#39; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Drag &amp;amp; Drop Menu in Firefox&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt=&#39;Drag &amp;amp; Drop Menu - Firefox&#39; src=&#39;/images/dragdropmenu-firefox.png&#39; /&gt;&lt;/p&gt;</content>
- </entry>
- 
- <entry>
-   <title>Initial Google Drive Integration</title>
-   <link href="http://username.github.com/2012/08/18/initial-google-drive-integration"/>
-   <updated>2012-08-18T00:00:00+03:00</updated>
-   <id>http://username.github.com/2012/08/18/initial-google-drive-integration</id>
-   <content type="html">&lt;p&gt;Now Sketchboard.Me has an initial support for Google Drive. You can use Google Drive features with your sketchboards, share with your existing contacts, search sketchboards by a shortcut name and see who has last modified the board.&lt;/p&gt;
-
-&lt;p&gt;Currently supported:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Adding shortcuts from Google Drive Menu or from Sketchboard.Me itself&lt;/p&gt;
-&lt;/li&gt;
-
-&lt;li&gt;
-&lt;p&gt;Shortcut gets board name only once when created from Sketchboard.Me&lt;/p&gt;
-&lt;/li&gt;
-
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;NOTE:&lt;/strong&gt; Shared files on Google Drive. Currently everyone can edit the board even though they have only viewer or commenter rights on Google Drive&lt;/p&gt;
-&lt;/li&gt;
-
-&lt;li&gt;
-&lt;p&gt;You need PRO account to use Google Drive integration (everyone will be pro during the alpha stage! :))&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#39;installing_sketchboardme_on_google_drive&#39;&gt;Installing Sketchboard.Me on Google Drive&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Enable and take &lt;a href=&#39;https://drive.google.com&#39;&gt;Google Drive&lt;/a&gt; into use&lt;/li&gt;
-
-&lt;li&gt;&lt;a href=&#39;https://chrome.google.com/webstore/detail/bgafhjpdkfjfmmjbebbdckolonomaoil&#39;&gt;Install Sketchboard.Me&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#39;create_sketchboardme_shortcut_from_google_drive&#39;&gt;Create Sketchboard.Me shortcut from Google Drive:&lt;/h4&gt;
-
-&lt;p&gt;&lt;img alt=&#39;Google Drive Menu&#39; src=&#39;/images/google-drive-menu.png&#39; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&#39;sketchboardme_on_chrome&#39;&gt;Sketchboard.Me on Chrome:&lt;/h4&gt;
-
-&lt;p&gt;&lt;img alt=&#39;Sketchboard.Me as Chrome App&#39; src=&#39;/images/sketchboardme-chrome-launch.png&#39; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&#39;google_drive_menu_on_sketchboardme&#39;&gt;Google Drive Menu on Sketchboard.Me:&lt;/h4&gt;
-
-&lt;p&gt;&lt;img alt=&#39;Sketchboard Me Google Drive Menu&#39; src=&#39;/images/sketchboard-me-google-drive-menu.png&#39; /&gt;&lt;/p&gt;</content>
- </entry>
- 
- <entry>
-   <title>Element Auto Resize Helps Sketching</title>
-   <link href="http://username.github.com/2012/07/09/resizing-diagram-elements"/>
-   <updated>2012-07-09T00:00:00+03:00</updated>
-   <id>http://username.github.com/2012/07/09/resizing-diagram-elements</id>
-   <content type="html">&lt;p&gt;Sketchboard.Me changed slightly the way diagram elements are resized on the board. Now resize handle is more visible and it is shown only when the element is selected. This is to keep the board visually clean. It might make learning to resize slightly more difficult, but at the same time it is more visible when you click the element and diagram looks better as a whole.&lt;/p&gt;
-
-&lt;p&gt;In the end Sketchboard.Me tries to give clever choices for each element how it behaves to enable quick sketching in agile projects. When element is autoresized you can concentrate on the content and Sketchboard.Me supports you to draw your thoughts without a hassle.&lt;/p&gt;
-
-&lt;p&gt;There are three types of resize behaviours:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Element auto resizes the height&lt;/strong&gt;. You can change the width and element auto resizes the height. Note and text elements implement this kind of behaviour. This is to implement automatic word wrapping.&lt;/li&gt;
-
-&lt;li&gt;&lt;strong&gt;Element auto resizes widht and height based on the text&lt;/strong&gt;. You can change the width and the height, but resize is effective only until you next time change the text.&lt;/li&gt;
-
-&lt;li&gt;&lt;strong&gt;No autoresize&lt;/strong&gt;. Container elements keep the width and the height as the user wants. It will always stay as resized. Container elements can contain something inside.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Rules seems to be complex, but those are meant to be working in a way that you don&amp;#8217;t need to even think about how resizing works. This post is just to clarify why this kind of approach has been selected.&lt;/p&gt;
-
-&lt;p&gt;Figure 1. Note element auto resizes the height and word wraps word &lt;img alt=&#39;Note Auto Resize&#39; src=&#39;/images/note-auto-resize.png&#39; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Figure 2. Class diagram can be resized, but restores the widht and height after typing a text. &lt;img alt=&#39;Class Element Auto Resize&#39; src=&#39;/images/classdiagram-resize.png&#39; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Figure 3. Container elements do not autoresize. &lt;img alt=&#39;Container Element Resize&#39; src=&#39;/images/container-element-resize.png&#39; /&gt;&lt;/p&gt;
-
-&lt;p&gt;These behaviours have been added by thinking elements usages. Mostly you just want to draft something out and auto resize makes your life easier, most of the time&amp;#8230;&lt;/p&gt;
-
-&lt;p&gt;It might be that in the future auto resize is an option for an element, to give user power to control which elements should be auto resized and which not.&lt;/p&gt;</content>
- </entry>
- 
- <entry>
-   <title>Freeeehand Drawing</title>
-   <link href="http://username.github.com/2012/06/04/freehand-drawing"/>
-   <updated>2012-06-04T00:00:00+03:00</updated>
-   <id>http://username.github.com/2012/06/04/freehand-drawing</id>
-   <content type="html">&lt;p&gt;One small step closer to what Sketchboard.Me tries to achieve, drawing a sketch using a pen and providing the same kind of support for thinking as paper and pen or a whiteboard sketching with others. Easily clarify the idea to yourself or others, but digitally and it doesn’t matter where you or collaborators are.&lt;/p&gt;
-
-&lt;p&gt;Freehand drawing can be &lt;strong&gt;enabled&lt;/strong&gt; from two different places, from a toolbar or from a quick drawing menu. The quick drawing menu can be opened by double clicking the board.&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt=&#39;Quick Insert Menu with Freehand&#39; src=&#39;/images/quickinsertmenu.png&#39; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Once freehand drawing has been enabled, you will see a highlighted freehand drawing mode on top of the board. Draw to the board by using your mouse, left button down and move your mouse.&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt=&#39;Highlighted Freehand Mode On, Sketchboard.Me UI Sketch&#39; src=&#39;/images/sketchboardme-ui-sketch.png&#39; /&gt;&lt;/p&gt;
-
-&lt;p&gt;By clicking the top button, the freehand button on the quick drawing menu or on the toolbar you can disable the freehand mode.&lt;/p&gt;
-
-&lt;p&gt;Freehand drawing is not sampling all the points to minimize the data amount. It tries to keep the original shape, but drawing is little bit smoothened. You can also &lt;strong&gt;color fill&lt;/strong&gt; the freehand drawing, but by default the fill is transparent. Select a color and you will get a background color for you drawing. To draw just the line, select transparent.&lt;/p&gt;
-
-&lt;p&gt;Note that you can also &lt;strong&gt;connect freehand&lt;/strong&gt; items by using the connection helpers.&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt=&#39;Freehand Connection Helpers&#39; src=&#39;/images/freehand-connect.png&#39; /&gt;&lt;/p&gt;</content>
- </entry>
- 
- <entry>
-   <title>Remove Obsolete Boards</title>
-   <link href="http://username.github.com/2012/05/27/remove-obsolete-boards"/>
-   <updated>2012-05-27T00:00:00+03:00</updated>
-   <id>http://username.github.com/2012/05/27/remove-obsolete-boards</id>
-   <content type="html">&lt;p&gt;Sometimes it is annoying to see all old sketchboards on switch list. E.g. some drafts that you have abandoned and you wouldn’t like to see those on your list any longer. Therefore a board can be now removed from the switch list.&lt;/p&gt;
-
-&lt;p&gt;Open switch list and navigate to the board that you don’t want to see any longer. Board is removed only from the list, it is not removed from the database. Of course if it is a free board, it will be removed after 30 days.&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt=&#39;Remove Board&#39; src=&#39;/images/removeboard.png&#39; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Just in case if you did this by accident you can always open the removed url and board will be associated to you again. Hopefully you have the url somewhere :) That’s why board removal asks you to confirm the removal.&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt=&#39;Remove Board Confirmation&#39; src=&#39;/images/removeboardconf.png&#39; /&gt;&lt;/p&gt;</content>
- </entry>
- 
- <entry>
-   <title>Reuse Diagrams</title>
-   <link href="http://username.github.com/2012/05/23/reuse-diagrams"/>
-   <updated>2012-05-23T00:00:00+03:00</updated>
-   <id>http://username.github.com/2012/05/23/reuse-diagrams</id>
-   <content type="html">&lt;p&gt;Reuse diagrams by copying the current board as a new board. This gives you a possibility to create alternative designs. Continue only with the one that is better and ditch the other one. You can even create your own template diagram library.&lt;/p&gt;
-
-&lt;p&gt;Select &amp;#8220;Copy Board&amp;#8221; and a new board is created for you. Location of the copy board button depends whether you are logged in or not. When you are logged in you can copy the board from the switch board list.&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt=&#39;Copy Board - Logged In&#39; src=&#39;/images/copyboard-loggedin.png&#39; /&gt;&lt;/p&gt;
-
-&lt;p&gt;When you are not logged in, copy button is directly available from the toolbar. Reasons for different locations are that there has started to be quite many buttons in the toolbar, not logged in users see less options. Also new users can quickly get started by copying from a read only example board. One reason is that logically user is switching a board, to sum these up, decision was to have two different locations.&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt=&#39;Copy Board - Not Logged In&#39; src=&#39;/images/copyboard-notlogged.png&#39; /&gt;&lt;/p&gt;</content>
- </entry>
- 
- <entry>
-   <title>Named Boards</title>
-   <link href="http://username.github.com/2012/05/12/named-boards"/>
-   <updated>2012-05-12T00:00:00+03:00</updated>
-   <id>http://username.github.com/2012/05/12/named-boards</id>
-   <content type="html">&lt;p&gt;Easily differentiate your boards from each other with named boards. It is also easier to remember what is the content of a &lt;strong&gt;pro board&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt=&#39;Change Board Name Menu&#39; src=&#39;/images/change-board-name.png&#39; /&gt; &lt;img alt=&#39;Change Board Name Menu Popup&#39; src=&#39;/images/change-board-name-popup.png&#39; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Switch board list shows human readable name, something that you have given.&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt=&#39;Switch Board List with name boards&#39; src=&#39;/images/switch-list-named-boards.png&#39; /&gt;&lt;/p&gt;</content>
- </entry>
- 
- <entry>
-   <title>Password Protect Your Board</title>
-   <link href="http://username.github.com/2012/05/09/password-protect-your-board"/>
-   <updated>2012-05-09T00:00:00+03:00</updated>
-   <id>http://username.github.com/2012/05/09/password-protect-your-board</id>
-   <content type="html">&lt;p&gt;Once you have set your board as pro you can protect it with a password. Password is not required from the board owner. Empty password clears password protection and only owner of the board can set the password. Share the password with collaborators and you are good to go.&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt=&#39;Protect Board&#39; src=&#39;/images/protectboard.png&#39; /&gt;&lt;/p&gt;</content>
- </entry>
- 
- <entry>
-   <title>Go Pro</title>
-   <link href="http://username.github.com/2012/05/07/go-pro"/>
-   <updated>2012-05-07T00:00:00+03:00</updated>
-   <id>http://username.github.com/2012/05/07/go-pro</id>
-   <content type="html">&lt;p&gt;Become a &lt;strong&gt;Pro Sketchboard.Me&lt;/strong&gt; user. First signup and then send email from your signup email to sketchboardme[at]7scales.net to get your pro status, &lt;em&gt;subject: go pro&lt;/em&gt;, that&amp;#8217;s it! With Pro account you are able to&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Mark Boards as Pro, find pro boards as first in the switch board list&lt;/li&gt;
-
-&lt;li&gt;Protect Pro boards with a password&lt;/li&gt;
-
-&lt;li&gt;Share Pro boards with readonly url&lt;/li&gt;
-
-&lt;li&gt;Pro boards are not removed after 30 days&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;At this phase you can mark five boards as Pro. As always, give feedback! sketchboardme[ at ]7scales.net or &lt;a href=&#39;http://twitter.com/#!/sketchboardme&#39;&gt;@SketchboardMe&lt;/a&gt;.&lt;/p&gt;</content>
- </entry>
- 
- <entry>
-   <title>Switch Board</title>
-   <link href="http://username.github.com/2012/05/06/switch-board"/>
-   <updated>2012-05-06T00:00:00+03:00</updated>
-   <id>http://username.github.com/2012/05/06/switch-board</id>
-   <content type="html">&lt;p&gt;Switch board list enables you to quickly change a board. In case you want to have multiple boards open at the same time, press cmd/ctrl key while clicking the link, it opens the board to a new tab.&lt;/p&gt;
-
-&lt;p&gt;To change your board status to pro, click the left most empty box next to the board url. Pro boards can be recognized from the green pro icon and are first in the list. Currently open board is highlighted with light grey background color. Boards that you are admin of are marked with &lt;strong&gt;me&lt;/strong&gt; in the end of each line. You can change pro status only for those.&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt=&#39;Switch board list&#39; src=&#39;/images/switchboard.png&#39; /&gt;&lt;/p&gt;</content>
- </entry>
- 
- <entry>
-   <title>Read Only Board</title>
-   <link href="http://username.github.com/2012/05/06/read-only-board"/>
-   <updated>2012-05-06T00:00:00+03:00</updated>
-   <id>http://username.github.com/2012/05/06/read-only-board</id>
-   <content type="html">&lt;p&gt;As a Pro Sketchboard.Me user you can share board read only url. Note that board needs to be marked as pro.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Select &amp;#8220;Email Read Only URL&amp;#8221;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img alt=&#39;Share Read Only URL&#39; src=&#39;/images/sendreadonlyurl.png&#39; /&gt;&lt;/p&gt;
-
-&lt;p&gt;From the Share popup, you can see board read only url. When board is accessed through this URL, board cannot be modified.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;To: write email addresses, comma separated&lt;/li&gt;
-
-&lt;li&gt;Board name: type your board name (this is optional, but makes easier to find from the inbox.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img alt=&#39;Email Read Only URL&#39; src=&#39;/images/emailreadonlyurl.png&#39; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Try it your self!&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Editable Board&lt;/strong&gt;: &lt;a href=&#39;http://sketchboard.me/fxG7iMD1lIGg&#39;&gt;http://sketchboard.me/fxG7iMD1lIGg&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Same board with Read Only URL&lt;/strong&gt;: &lt;a href=&#39;http://sketchboard.me/oxG7j9AAVptr&#39;&gt;http://sketchboard.me/oxG7j9AAVptr&lt;/a&gt;&lt;/p&gt;</content>
- </entry>
- 
- <entry>
-   <title>Hello</title>
-   <link href="http://username.github.com/2012/05/06/hello"/>
-   <updated>2012-05-06T00:00:00+03:00</updated>
-   <id>http://username.github.com/2012/05/06/hello</id>
-   <content type="html">&lt;p&gt;Sketchboard.Me starts to keep blog to give quick overview of features, news and thoughts. Technically blog is powered by Github, Jekyll + Jekyll Boostrap and Twitter Boostrap. Blog is running on Github Pages that automatically publish the blog on each git commit. First impression of Github Pages combined with Jekyll is great. It is really easy to use and very convinient. Setup makes possible to edit and publish blog content directly through a web browser by editing files through Github, which is extremely nice!&lt;/p&gt;</content>
  </entry>
  
  
