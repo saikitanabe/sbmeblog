@@ -8,6 +8,9 @@ For all usage and documentation please see: <http://jekyllbootstrap.com>
 
 ![Test2.svg](Test2.svg)
 
+![Test2.svg](Test2.svg?raw=true)
+
+
 ## Version
 
 0.2.13 - stable and versioned using [semantic versioning](http://semver.org/).
