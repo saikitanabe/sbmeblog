@@ -10,7 +10,7 @@ For all usage and documentation please see: <http://jekyllbootstrap.com>
 
 ![Test2.svg](Test2.svg?raw=true)
 
-![](https://github.com/saikitanabe/sbmeblog/blob/flow-chart/Test2.svg)
+![](https://rawgithub.com/saikitanabe/sbmeblog/blob/flow-chart/Test2.svg)
 
 
 ## Version
