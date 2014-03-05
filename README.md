@@ -10,7 +10,7 @@ For all usage and documentation please see: <http://jekyllbootstrap.com>
 
 ![Test2.svg](Test2.svg?raw=true)
 
-![test](https://raw.github.com/saikitanabe/sbmeblog/blob/flow-chart/Test2.svg)
+![test](https://raw.github.com/saikitanabe/sbmeblog/blob/flow-chart/Test2.svg?raw=true)
 ![Alt text](http://potherca.github.io/StackOverflow/question.13808020.include-an-svg-hosted-on-github-in-markdown/controllers_brief.svg)
 
 ## Version
