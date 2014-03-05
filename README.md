@@ -12,7 +12,7 @@ For all usage and documentation please see: <http://jekyllbootstrap.com>
 
 ![test](test.png)
 
-![test](test.png =100x20)
+![test](test.png =100)
 
 
 ## Version
