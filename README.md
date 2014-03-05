@@ -8,6 +8,8 @@ For all usage and documentation please see: <http://jekyllbootstrap.com>
 
 ![Test3](Test3.png)
 
+![test-board](test-board.png)
+
 ![Test2.svg](Test2.svg)
 
 ![Test2.svg](Test2.svg?raw=true)
