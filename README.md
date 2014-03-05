@@ -6,6 +6,8 @@ The quickest way to start and publish your Jekyll powered blog. 100% compatible 
 
 For all usage and documentation please see: <http://jekyllbootstrap.com>
 
+![Test3](Test3.png)
+
 ![Test2.svg](Test2.svg)
 
 ![Test2.svg](Test2.svg?raw=true)
