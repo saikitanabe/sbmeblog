@@ -10,6 +10,8 @@ For all usage and documentation please see: <http://jekyllbootstrap.com>
 
 ![test-board](test-board.png)
 
+![test](test.png)
+
 ## Version
 
 0.2.13 - stable and versioned using [semantic versioning](http://semver.org/).
