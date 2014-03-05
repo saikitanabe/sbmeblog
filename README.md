@@ -12,6 +12,9 @@ For all usage and documentation please see: <http://jekyllbootstrap.com>
 
 ![test](test.png)
 
+![test](test.png =100x20)
+
+
 ## Version
 
 0.2.13 - stable and versioned using [semantic versioning](http://semver.org/).
